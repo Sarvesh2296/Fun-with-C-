@@ -1,4 +1,4 @@
-# Fun-with-C-
+# Fun-with-C++
 Some mini problems solved through coding in C++
 The source of these problems are :
 1. InterviewBit
